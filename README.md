@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 My name's Nick Arner.
 
-<!--
-**narner/narner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer and researcher working in the field of human-computer interaction. My main interests are sensors, humane interfaces, augmented reality, and 
+ubiquitous computing. I currently live and work in the San Francisco Bay Area.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects 
+
+* [AudioKit - Open-Souce Apple Framework for Audio Analysis, Synthesis, and Processing](https://nickarner.com/projects_and_work/audiokit/)
+* [O Soli Mio - Radar Powered Gestural Interfaces for Music](https://nickarner.com/projects_and_work/o_soli_mio/)
+* [Emulating Touché - Open-Source Capacitive Sensing Interactions with Plants and Water](https://nickarner.com/projects_and_work/emulating_touch%C3%A9/)
+* [Whistlr - iOS Contact Sharing over Audio](https://nickarner.com/projects_and_work/whistlr/)
+* [Push-To-Talk Audio Chat App}(https://nickarner.com/projects_and_work/push_to_talk_audio_chat_app/)
+
+## Notes
+I write about human-computer interaction, new technologies, and software development [here](https://nickarner.com/notes/). Published work can be found [here](https://nickarner.com/publications/publications/).
+
+## Working Together
+I’m currently available for full-time and freelance iOS / macOS development roles. You can download my resume here.
+
+
+## Get In Touch
+Send me a note at nicholasarner (at) gmail (dot) com, or find me on [Twitter](https://twitter.com/nickarner).
