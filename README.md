@@ -15,9 +15,5 @@ ubiquitous computing. I currently live and work in the San Francisco Bay Area.
 #### Notes
 I write about human-computer interaction, new technologies, and software development [here](https://nickarner.com/notes/). Published work can be found [here](https://nickarner.com/publications/publications/).
 
-#### Working Together
-I’m currently available for full-time and freelance iOS / macOS development roles. You can download my resume [here](https://nickarner.com/NFA-Resume.pdf).
-
-
 #### Get In Touch
 Send me a note at nicholasarner (at) gmail (dot) com, or find me on [Twitter](https://twitter.com/nickarner).
