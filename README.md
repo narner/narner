@@ -1,4 +1,4 @@
-### Hi there 👋 My name's Nick Arner.
+### Hi there 👋, I'm Nick
 
 I’m a developer and researcher working in the field of human-computer interaction. My main interests are sensors, humane interfaces, augmented reality, and 
 ubiquitous computing. I currently live and work in the San Francisco Bay Area.
