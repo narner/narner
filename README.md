@@ -15,11 +15,17 @@ ubiquitous computing.
 * [Push-To-Talk Audio Chat App](https://nickarner.com/projects_and_work/push_to_talk_audio_chat_app/)
 
 
-### Open Source 
+### Open Source Tools and Apps
 * [Stitch](https://github.com/StitchDesign/Stitch) - founding eng of Stitch, an open-source tool for designers.
 * [Roboflow's Swift SDK ](https://github.com/roboflow/roboflow-swift) - Made the first version of an SDK for using Roboflow trained models on iOS devices.
 * [AudioKit - Open-Souce Apple Framework for Audio Analysis, Synthesis, and Processing](https://nickarner.com/projects_and_work/audiokit/). - helped launch AudioKit, easy audio processing for Apple frameworks.
 * [TiktokenSwift](https://github.com/narner?tab=repositories) - Swift pacakge for OpenAI's tiktoken library.
+
+
+### Prototypes
+ *  [Visual iMessage](https://github.com/narner/Visual-iMessage-Demo) - What if Siri could describe images in an iMessage thread?
+ *  
+
   
 ### Notes
 I write about human-computer interaction, new technologies, and software development [here](https://nickarner.com/notes/). Published work can be found [here](https://nickarner.com/publications/publications/).
