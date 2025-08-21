@@ -25,6 +25,7 @@ ubiquitous computing.
 ### Prototypes
  *  [Visual iMessage](https://github.com/narner/Visual-iMessage-Demo) - What if Siri could describe images in an iMessage thread?
  *  [Inception Labs SwiftUI Diffusion Demo](https://github.com/narner/InceptionLabs-SwiftUI-Diffusion-Dem) - SwiftUI interfaces for Inception Labs' Language Diffusion Model
+ *  [ASL Classifier Demo](https://github.com/narner/ASL-Classifier-Demo) - using CoreML to detect ASL signs on iOS devices
 
   
 ### Notes
