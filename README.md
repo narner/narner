@@ -27,11 +27,11 @@ ubiquitous computing.
 
  
 ### Older Projects
- *  [https://github.com/narner/Touche-Experiments](Touché Experiements) - homemade Touché (swept-frequency capacity sensing) plant interactions
+ *  [Touché Experiements](https://github.com/narner/Touche-Experiments)- homemade Touché (swept-frequency capacity sensing) plant interactions
  *  [GRT on iOS](https://github.com/narner/GRT-iOS-HelloWorld) - recognizing phone motion gestures on iOS
- *  [https://github.com/narner/iOS-FlameSensor-Bluetooth-Study](Flame Sensor BLE Study) - detetcting flames and sending updates via BLE
- *  [https://github.com/narner/ESC10-CoreML](ESC10-CoreML) - recognizing sound events on iOS with CoreML
- *  [https://github.com/narner/Analog-and-NeoPixel-LED-Strip-Control](Analog and NeoPixel LED control) - controlling LED strips with Arduinos
+ *  [Flame Sensor BLE Study](https://github.com/narner/iOS-FlameSensor-Bluetooth-Study) - detetcting flames and sending updates via BLE
+ *  [ESC10-CoreML](https://github.com/narner/ESC10-CoreML) - recognizing sound events on iOS with CoreML
+ *  [Analog and NeoPixel LED control](https://github.com/narner/Analog-and-NeoPixel-LED-Strip-Control) - controlling LED strips with Arduinos
 
   
 ### Notes
