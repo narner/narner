@@ -7,8 +7,6 @@ ubiquitous computing.
 
 
 ### Selected Projects 
-
-
 * [O Soli Mio - Radar Powered Gestural Interfaces for Music](https://nickarner.com/projects_and_work/o_soli_mio/)
 * [Emulating Touché - Open-Source Capacitive Sensing Interactions with Plants and Water](https://nickarner.com/projects_and_work/emulating_touch%C3%A9/)
 * [Whistlr - iOS Contact Sharing over Audio](https://nickarner.com/projects_and_work/whistlr/)
@@ -27,9 +25,18 @@ ubiquitous computing.
  *  [Inception Labs SwiftUI Diffusion Demo](https://github.com/narner/InceptionLabs-SwiftUI-Diffusion-Dem) - SwiftUI interfaces for Inception Labs' Language Diffusion Model
  *  [ASL Classifier Demo](https://github.com/narner/ASL-Classifier-Demo) - using CoreML to detect ASL signs on iOS devices
 
+ 
+### Older Projects
+ *  [https://github.com/narner/Touche-Experiments](Touché Experiements) - homemade Touché (swept-frequency capacity sensing) plant interactions
+ *  [GRT on iOS](https://github.com/narner/GRT-iOS-HelloWorld) - recognizing phone motion gestures on iOS
+ *  [https://github.com/narner/iOS-FlameSensor-Bluetooth-Study](Flame Sensor BLE Study) - detetcting flames and sending updates via BLE
+ *  [https://github.com/narner/ESC10-CoreML](ESC10-CoreML) - recognizing sound events on iOS with CoreML
+ *  [https://github.com/narner/Analog-and-NeoPixel-LED-Strip-Control](Analog and NeoPixel LED control) - controlling LED strips with Arduinos
+
   
 ### Notes
-I write about human-computer interaction, new technologies, and software development [here](https://nickarner.com/notes/). Published work can be found [here](https://nickarner.com/publications/publications/).
+I write [here](https://nickarner.com/notes/). 
+
 
 ### Get In Touch
 Send me a note at nicholasarner (at) gmail (dot) com, or find me on [Twitter](https://twitter.com/nickarner).
