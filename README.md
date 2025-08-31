@@ -15,10 +15,10 @@ ubiquitous computing.
 
 ### Open Source Tools and Apps
 * [Stitch](https://github.com/StitchDesign/Stitch) - founding eng of Stitch, an open-source tool for designers.
+* [ChromaSwift](https://github.com/chroma-core/chroma-swift) - Swift package for Chroma on-device vector database
+* [TiktokenSwift](https://github.com/narner/TiktokenSwiftSwift) - package for OpenAI's tiktoken library.
 * [Roboflow's Swift SDK ](https://github.com/roboflow/roboflow-swift) - Made the first version of an SDK for using Roboflow trained models on iOS devices.
 * [AudioKit - Open-Souce Apple Framework for Audio Analysis, Synthesis, and Processing](https://nickarner.com/projects_and_work/audiokit/). - helped launch AudioKit, easy audio processing for Apple frameworks.
-* [TiktokenSwift](https://github.com/narner/TiktokenSwiftSwift) - package for OpenAI's tiktoken library.
-
 
 ### Prototypes
  *  [Visual iMessage](https://github.com/narner/Visual-iMessage-Demo) - What if Siri could describe images in an iMessage thread?
