@@ -1,41 +1,51 @@
 ### Hi there 👋, I'm Nick
 
-I’m a developer and researcher working in the field of human-computer interaction. My main interests are sensors, humane interfaces, augmented reality, and 
-ubiquitous computing. 
+I design and build **humane interfaces** — mostly in **Swift** (iOS & macOS), sometimes in **Rust** and **Python**.  
+My work bridges **HCI research**, **developer tools**, and **new ways of working with AI**.
 
 📍 San Francisco
 
 
-### Selected Projects 
-* [O Soli Mio - Radar Powered Gestural Interfaces for Music](https://nickarner.com/projects_and_work/o_soli_mio/)
-* [Emulating Touché - Open-Source Capacitive Sensing Interactions with Plants and Water](https://nickarner.com/projects_and_work/emulating_touch%C3%A9/)
-* [Whistlr - iOS Contact Sharing over Audio](https://nickarner.com/projects_and_work/whistlr/)
-* [Push-To-Talk Audio Chat App](https://nickarner.com/projects_and_work/push_to_talk_audio_chat_app/)
+---
 
+### 🧩 Open Source Tools
+- [**Stitch**](https://github.com/StitchDesign/Stitch) — founding engineer of Stitch, an open-source tool for designers  
+- [**Chroma-Swift**](https://github.com/chroma-core/chroma-swift) — Swift package for Chroma’s on-device vector database  
+- [**TiktokenSwift**](https://github.com/narner/TiktokenSwift) — Swift bindings for OpenAI’s tiktoken via UniFFI  
+- [**Roboflow Swift SDK**](https://github.com/roboflow/swift-sdk) — first SDK for running Roboflow-trained models on iOS  
+- [**AudioKit**](https://github.com/AudioKit/AudioKit) — helped launch this open-source audio synthesis/analysis framework
 
-### Open Source Tools and Apps
-* [Stitch](https://github.com/StitchDesign/Stitch) - founding eng of Stitch, an open-source tool for designers.
-* [ChromaSwift](https://github.com/chroma-core/chroma-swift) - Swift package for Chroma on-device vector database
-* [TiktokenSwift](https://github.com/narner/TiktokenSwiftSwift) - package for OpenAI's tiktoken library.
-* [Roboflow's Swift SDK ](https://github.com/roboflow/roboflow-swift) - Made the first version of an SDK for using Roboflow trained models on iOS devices.
-* [AudioKit - Open-Souce Apple Framework for Audio Analysis, Synthesis, and Processing](https://nickarner.com/projects_and_work/audiokit/). - helped launch AudioKit, easy audio processing for Apple frameworks.
+---
 
-### Prototypes
- *  [Visual iMessage](https://github.com/narner/Visual-iMessage-Demo) - What if Siri could describe images in an iMessage thread?
- *  [Inception Labs SwiftUI Diffusion Demo](https://github.com/narner/InceptionLabs-SwiftUI-Diffusion-Dem) - SwiftUI interfaces for Inception Labs' Language Diffusion Model
- *  [ASL Classifier Demo](https://github.com/narner/ASL-Classifier-Demo) - using CoreML to detect ASL signs on iOS devices
+### 🎛 Prototypes
+- [**Visual iMessage**](https://nickarner.com/projects_and_work/visual-imessage) — what if Siri could describe images in a thread?  
+- [**Diffusion Demo**](https://nickarner.com/projects_and_work/diffusion-demo) — SwiftUI interfaces for Inception Labs’ model  
+- [**ASL Classifier**](https://nickarner.com/projects_and_work/asl-classifier) — detecting ASL signs on-device with CoreML  
 
- 
-### Older Projects
- *  [Touché Experiements](https://github.com/narner/Touche-Experiments)- homemade Touché (swept-frequency capacity sensing) plant interactions
- *  [GRT on iOS](https://github.com/narner/GRT-iOS-HelloWorld) - recognizing phone motion gestures on iOS
- *  [Flame Sensor BLE Study](https://github.com/narner/iOS-FlameSensor-Bluetooth-Study) - detetcting flames and sending updates via BLE
- *  [ESC10-CoreML](https://github.com/narner/ESC10-CoreML) - recognizing sound events on iOS with CoreML
- *  [Analog and NeoPixel LED control](https://github.com/narner/Analog-and-NeoPixel-LED-Strip-Control) - controlling LED strips with Arduinos
+---
 
-  
-### Notes
-I write [here](https://nickarner.com/notes/). 
+### 🧪 Earlier Work
+- [**Emulating Touché**](https://nickarner.com/projects_and_work/touche) — open-source capacitive sensing with plants & water  
+- [**O Soli Mio**](https://nickarner.com/projects_and_work/o-soli-mio) — radar-powered gestural interfaces for music  
+- [**Whistlr**](https://nickarner.com/projects_and_work/whistlr) — contact sharing over audio on iOS  
+- [**Push-to-Talk Chat**](https://nickarner.com/projects_and_work/ptt-chat) — lightweight audio chat app  
+- Plus experiments with BLE sensors, CoreML sound recognition, LED control, and more ([archive](https://nickarner.com/projects_and_work))
+
+---
+
+### 📚 Publications
+- *[O Soli Mio: Exploring Millimeter Wave Radar for Musical Interaction](https://homes.create.aau.dk/dano/nime17/papers/0054/index.html)* (NIME 2017)  
+- *[Investigation of the use of Multi-Touch Gestures in Music Interaction](https://etheses.whiterose.ac.uk/id/eprint/5312/)* (MSc Thesis, University of York)  
+
+---
+
+### Links
+- 🌐 [Website](https://nickarner.com)  
+- 📝 [Notes](https://nickarner.com/notes)  
+- 📂 [Projects](https://nickarner.com/projects_and_work)  
+- 🐦 [Twitter/X](https://x.com/nickarner)
+
+---
 
 
 ### Get In Touch
