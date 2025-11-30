@@ -10,7 +10,7 @@ My work bridges **HCI research**, **developer tools**, and **new ways of working
 
 ### 🧩 Open Source Tools
 - [**Stitch**](https://github.com/StitchDesign/Stitch) — founding engineer of Stitch, an open-source tool for designers  
-- [**Chroma-Swift**](https://github.com/chroma-core/chroma-swift) — Swift package for Chroma’s on-device vector database  
+- [**Chroma-Swift**](https://github.com/chroma-core/chroma-swift) — Swift package for Chroma’s on-device database engine
 - [**TiktokenSwift**](https://github.com/narner/TiktokenSwift) — Swift bindings for OpenAI’s tiktoken via UniFFI  
 - [**Roboflow Swift SDK**](https://github.com/roboflow/swift-sdk) — first SDK for running Roboflow-trained models on iOS  
 - [**AudioKit**](https://github.com/AudioKit/AudioKit) — helped launch this open-source audio synthesis/analysis framework
